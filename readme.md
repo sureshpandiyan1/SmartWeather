@@ -20,7 +20,7 @@ If you like it, give a star ⭐
 <div>
 </a>
 
-# Demo
+# how to use it
 
 
 ![video_demos_edit_0](https://user-images.githubusercontent.com/112636345/209670568-756025b2-8091-4dbf-b7ed-d19ab7404c40.gif)
@@ -30,6 +30,7 @@ If you like it, give a star ⭐
     
     Title: smartweather 1.0.0 For Windows
     Filename: smartweather_v1.0.0.exe
+    package: standalone 
     Version: 1.0.0
     Setup Size: 11.37 MB
     Requirements: Windows 7 / 8 / 10 / 11
