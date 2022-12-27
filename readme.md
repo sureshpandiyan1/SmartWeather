@@ -22,7 +22,8 @@ If you like it, give a star ⭐
 
 # Demo
 
-[genie_edit_0.webm](https://user-images.githubusercontent.com/112636345/202772073-33b08c9e-2443-40a6-9542-256647c55033.webm)
+
+![video_demos_edit_0](https://user-images.githubusercontent.com/112636345/209670568-756025b2-8091-4dbf-b7ed-d19ab7404c40.gif)
 
 
 # Technical
