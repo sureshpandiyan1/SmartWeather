@@ -6,7 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/sureshpandiyan1/SmartWeather)](https://github.com/sureshpandiyan1/SmartWeather/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sureshpandiyan1/SmartWeather)](https://github.com/sureshpandiyan1/SmartWeather/network)
 [![GitHub issues](https://img.shields.io/github/issues/sureshpandiyan1/SmartWeather)](https://github.com/sureshpandiyan1/SmartWeather/issues)
-[![GitHub license](https://img.shields.io/github/license/sureshpandiyan1/SmartWeather)](https://github.com/sureshpandiyan1/SmartWeather)
 
 If you like it, give a star ⭐
 
