@@ -22,7 +22,14 @@ If you like it, give a star ⭐
 # how to use it
 
 
+
 ![video_demos_edit_0](https://user-images.githubusercontent.com/112636345/209670568-756025b2-8091-4dbf-b7ed-d19ab7404c40.gif)
+
+
+# Screenshots
+
+![weathersplash](https://user-images.githubusercontent.com/112636345/209674385-a6874b7d-39f4-4cb5-bb54-e0201eacae80.png)
+![Mask Group 1](https://user-images.githubusercontent.com/112636345/209674304-a9f87803-4203-48b6-8b53-6f5d1aadd83d.png)
 
 
 # Technical
