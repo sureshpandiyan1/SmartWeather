@@ -19,11 +19,20 @@ If you like it, give a star ⭐
 <div>
 </a>
 
+# Highlights
+
+    - no need for any authentication like sign in
+    - quickly see weather information
+    - anybody can use it
+    - colors used to identify temperature were cold, warm, freezing
+    - even if you mistype the country name, it will show weather information correctly
+
 # how to use it
 
 
 
 ![video_demos_edit_0](https://user-images.githubusercontent.com/112636345/209670568-756025b2-8091-4dbf-b7ed-d19ab7404c40.gif)
+
 
 
 # Screenshots
